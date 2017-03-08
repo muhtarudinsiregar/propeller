@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/muhtarudinsiregar/propeller.svg?branch=master)](https://travis-ci.org/muhtarudinsiregar/propeller)
 
-Indonesia PRefix OPErator ceLLulER (propeller)
+Indonesia Prefix Operator cellular
 
 ## Installation
 
