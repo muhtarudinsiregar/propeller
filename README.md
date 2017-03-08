@@ -17,7 +17,7 @@ Indonesia PRefix OPErator ceLLulER (propeller)
 
 ## Roadmap
 * [X] Axis
-* [ ] 3
+* [X] 3
 * [ ] Mentari Ooredoo
 * [X] Telkomsel
 * [ ] XL
