@@ -8,7 +8,7 @@
   "main": "index.js",
   "dependencies": {},
   "scripts": {
-    "test": "mocha",
+    "test": "mocha tests/",
     "test:watch": "mocha -w"
   },
   "repository": {
