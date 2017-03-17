@@ -20,7 +20,7 @@ Indonesia Prefix Operator cellular
 * [X] 3
 * [ ] Mentari Ooredoo
 * [X] Telkomsel
-* [ ] XL
+* [X] XL
 
 ## source
 http://www.kios-pulsa.com/article/daftar-prefix-nomor-operator-seluler-indonesia/
